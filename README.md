@@ -2,9 +2,7 @@
 HelloVocaloid是由Kevin建立的Vocaloid电子博物馆项目
 <br>岂在收录，保存，分类所有Vocaloid相关资源，并提供免费的高速下载服务
 <br>
-# 访问HelloVocaloid
-目前您有两种方式访问HelloVocaloid项目
-<h1 style="font-family:arial;font-size:20px;">1.Tor网络:</h1>
+<h1 style="font-family:arial;font-size:20px;">1.通过Tor网络访问:</h1>
 <p style="font-family:arial;font-size:20px;">(1)如何进入tor网络</p> 
 <p style="font-family:arial;font-size:20px;">*本方法请连接代理网络或将您的VPN模式设置为全局代理*</p>
 <p style="font-family:arial;font-size:20px;">1.下载并安装Tor浏览器</p>
@@ -26,9 +24,18 @@ HelloVocaloid是由Kevin建立的Vocaloid电子博物馆项目
 <p style="font-family:arial;font-size:20px;">4.将复制的网桥信息填入设置 具体操作如下</p> 
 <p style="font-family:arial;font-size:20px;">手机版: 右上角进入设置->点击配置网桥->点击输入已知网桥->黏贴刚刚复制的网桥信息->确认->回到主页继续连接</p> 
 <p style="font-family:arial;font-size:20px;">桌面端: 浏览器设置->点击左侧栏的连接->在网桥部分找到手动添加网桥->黏贴刚刚复制的网桥信息->确认->回到主页继续连接</p> 
-<h1 style="font-family:arial;font-size:20px;">2.客户端程序:</h1>
+<h1 style="font-family:arial;font-size:20px;">2.通过客户端程序访问:</h1>
 <p style="font-family:arial;font-size:20px;">您可以通过本项目的github页面找到最新的本站客户端程序</p> 
 <p style="font-family:arial;font-size:20px;">我们提供了安卓和ios两种系统的客户端程序</p>
 <p style="font-family:arial;font-size:20px;">下载地址：https://github.com/Kevin14827/HelloVocaloid/releases/tag/Release</p>
-<br />
+<h1 style="font-family:arial;font-size:20px;">3.相关问题反馈</h1>
+<p style="font-family:arial;font-size:20px;">您需要通过github的issues系统向我们反馈相关问题，我们会第一时间处理</p> 
+<p style="font-family:arial;font-size:20px;">在创建和描述问题时，您需要尽可能详细的描述问题，并且尽可能的附上截图</p>
+<p style="font-family:arial;font-size:20px;">这有助于我们及时处理您的问题</p>
+<p style="font-family:arial;font-size:20px;">请注意，在提交问题时，请确保您提交的内容不会涉及您的个人隐私</p>
 
+<h1 style="font-family:arial;font-size:20px;">4.与我们取得联系:</h1>
+<p style="font-family:arial;font-size:20px;">您可以加入我们的Discord群组与我们取得联系</p> 
+<p style="font-family:arial;font-size:20px;">Discord群组地址：https://discord.gg/xMmpDjtN</p>
+<p style="font-family:arial;font-size:20px;">您可以加入我们的QQ群组与我们取得联系</p>
+<p style="font-family:arial;font-size:20px;">QQ群：894216232</p>
