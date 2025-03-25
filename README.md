@@ -1,0 +1,2 @@
+# HelloVocaloid
+HelloVocaloid是由Kevin建立的
