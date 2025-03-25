@@ -29,8 +29,6 @@ HelloVocaloid是由Kevin建立的Vocaloid电子博物馆项目
 <h1 style="font-family:arial;font-size:20px;">2.客户端程序:</h1>
 <p style="font-family:arial;font-size:20px;">您可以通过本项目的github页面找到最新的本站客户端程序</p> 
 <p style="font-family:arial;font-size:20px;">我们提供了安卓和ios两种系统的客户端程序</p>
-<p style="font-family:arial;font-size:20px;">1.下载并安装Tor浏览器</p>
-<p style="font-family:arial;font-size:20px;">2.进入浏览器点击连接Tor网络</p>
-<p style="font-family:arial;font-size:20px;">3.连接上Tor网络后 访问我们的Tor域名：v3sx74ayp3mvqsuuo5rltspoqxke4c4vuq36nekglxsezytobdrdmqqd.onion</p>
+<p style="font-family:arial;font-size:20px;">下载地址：https://github.com/Kevin14827/HelloVocaloid/releases/tag/Release</p>
 <br />
 
