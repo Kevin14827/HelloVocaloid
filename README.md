@@ -24,10 +24,9 @@ HelloVocaloid是由Kevin建立的Vocaloid电子博物馆项目
 <p style="font-family:arial;font-size:20px;">4.将复制的网桥信息填入设置 具体操作如下</p> 
 <p style="font-family:arial;font-size:20px;">手机版: 右上角进入设置->点击配置网桥->点击输入已知网桥->黏贴刚刚复制的网桥信息->确认->回到主页继续连接</p> 
 <p style="font-family:arial;font-size:20px;">桌面端: 浏览器设置->点击左侧栏的连接->在网桥部分找到手动添加网桥->黏贴刚刚复制的网桥信息->确认->回到主页继续连接</p> 
-<h1 style="font-family:arial;font-size:20px;">2.通过客户端程序访问:</h1>
-<p style="font-family:arial;font-size:20px;">您可以通过本项目的github页面找到最新的本站客户端程序</p> 
-<p style="font-family:arial;font-size:20px;">我们提供了安卓和ios两种系统的客户端程序</p>
-<p style="font-family:arial;font-size:20px;">下载地址：https://github.com/Kevin14827/HelloVocaloid/releases/tag/Release</p>
+<h1 style="font-family:arial;font-size:20px;">2.通过网站直接访问</h1>
+<p style="font-family:arial;font-size:20px;">站点地址：https://web.hellovocal.net/</p> 
+<p style="font-family:arial;font-size:20px;">注册教程：https://www.hellovocal.net/index.php/2025/04/12/hello-vocaloid%e7%94%b5%e5%ad%90%e6%ad%8c%e5%a7%ac%e8%b5%84%e6%ba%90%e5%8d%9a%e7%89%a9%e9%a6%86%e6%b3%a8%e5%86%8c%e6%8c%87%e5%8d%97/</p>
 <h1 style="font-family:arial;font-size:20px;">3.相关问题反馈</h1>
 <p style="font-family:arial;font-size:20px;">您需要通过github的issues系统向我们反馈相关问题，我们会第一时间处理</p> 
 <p style="font-family:arial;font-size:20px;">在创建和描述问题时，您需要尽可能详细的描述问题，并且尽可能的附上截图</p>
