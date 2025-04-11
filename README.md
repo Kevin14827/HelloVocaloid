@@ -1,6 +1,7 @@
 # HelloVocaloid
-HelloVocaloid是由Kevin建立的Vocaloid电子博物馆项目
+Hello Vocaloid电子歌姬资源博物馆是由Kevin建立的Vocaloid电子博物馆项目
 <br>岂在收录，保存，分类所有Vocaloid相关资源，并提供免费的高速下载服务
+<br>我们存在的目的仅仅只是收集，分类，保存Vocaloid相关资源，我们并不支持使用或传播盗版资源，感谢您的理解
 <br>
 <h1 style="font-family:arial;font-size:20px;">1.通过Tor网络访问:</h1>
 <p style="font-family:arial;font-size:20px;">(1)如何进入tor网络</p> 
